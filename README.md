@@ -1,2 +1,3 @@
 # WCC-Programming-club-game
-See Video-Game-Development-Process.jpg for video-game deveopment steps 
+Here is our basic game plan:
+<img src="Video-Game-Development-Process.jpg" alt="" /></a>
